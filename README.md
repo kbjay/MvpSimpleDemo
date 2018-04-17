@@ -5,6 +5,8 @@
  3. vp通过interface实现交互<br>
  4. p持有m跟v的引用,v持有p的引用<br>
  5. MVP把Activity中的UI逻辑抽象成View接口，把业务逻辑抽象成Presenter接口，Model类还是原来的Model。<br>
- https://img-blog.csdn.net/20160819103428799
+ 
 
-参考：https://blog.csdn.net/lmj623565791/article/details/46596109
+参考：https://blog.csdn.net/lmj623565791/article/details/46596109  <br>
+    https://blog.csdn.net/xuyonghong1122/article/details/52249398
+ 
